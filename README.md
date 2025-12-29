@@ -75,4 +75,4 @@
   python predict.py
   ```
 
-  - Ở nhưng lần chạy dự đoán giá nhà sau sẽ không cần chạy train nữa (trừ khi muốn train lại).
+  - Ở những lần chạy dự đoán giá nhà sau sẽ không cần chạy train nữa (trừ khi muốn train lại).
